@@ -1,0 +1,5 @@
+# Ignorar arquivos de log
+venv_exemplos_python/
+
+# Ignorar arquivos temporários
+*.tmp
